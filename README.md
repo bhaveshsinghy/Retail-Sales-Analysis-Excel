@@ -1,134 +1,205 @@
-## &#x20;                                                                              **Retail Sales Analysis Dashboard (Microsoft Excel)**
+# 📊 Retail Sales Analysis Dashboard | Microsoft Excel
 
+An end-to-end **Data Analysis Project** built in **Microsoft Excel** using the **Global Superstore** dataset. This project demonstrates the complete analytics workflow—from raw data cleaning and transformation to interactive dashboard creation and business insight generation.
 
+---
 
-### \## **Project Overview**
+# 📌 Project Overview
 
+The objective of this project is to analyze retail sales performance and build an interactive dashboard that enables business users to monitor key performance indicators, identify sales trends, evaluate profitability, and make data-driven decisions.
 
+---
 
-##### This project presents an interactive Retail Sales Dashboard built in Microsoft Excel using the Global Superstore dataset. It demonstrates the complete data analysis workflow, including data cleaning, transformation, KPI reporting, visualization, and business insights.
+# 🎯 Objectives
 
-##### 
+- Analyze retail sales performance.
+- Measure business profitability.
+- Identify high-performing products and customers.
+- Evaluate regional sales trends.
+- Analyze the impact of discounts on profit.
+- Build an interactive Excel dashboard for executive reporting.
 
-### \## **Dataset**
+---
 
+# 📂 Dataset Information
 
+| Attribute | Details |
+|-----------|---------|
+| **Dataset** | Global Superstore Orders |
+| **Source** | Kaggle |
+| **Total Records** | 51,290 |
+| **Total Columns** | 21 |
+| **Tool Used** | Microsoft Excel |
 
-##### \- Source: Kaggle
+---
 
-##### \- Records: 51,290
+# 🛠️ Excel Skills Demonstrated
 
-##### \- Columns: 21
+### Data Preparation
+- Data Cleaning
+- Data Validation
+- Duplicate Removal
+- Data Formatting
+- Calculated Columns
 
+### Data Analysis
+- Excel Tables
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Timeline Filters
 
+### Excel Functions
+- IF()
+- TEXT()
+- MONTH()
+- YEAR()
+- ROUNDUP()
+- SUM()
+- COUNT()
+- AVERAGE()
 
-### \## **Tools Used**
+### Dashboard Design
+- KPI Cards
+- Interactive Filters
+- Business Visualizations
+- Executive Reporting
 
+---
 
+# 📊 Dashboard Features
 
-##### \- Microsoft Excel
+- ✅ Total Sales KPI
+- ✅ Total Profit KPI
+- ✅ Total Orders KPI
+- ✅ Average Profit Margin KPI
+- ✅ Monthly Sales Trend
+- ✅ Regional Sales Analysis
+- ✅ Category Performance
+- ✅ Sub-Category Analysis
+- ✅ Top 10 Products
+- ✅ Top 10 Customers
+- ✅ Shipping Mode Analysis
+- ✅ Discount vs Profit Analysis
+- ✅ Interactive Slicers
+- ✅ Timeline Filter
 
-##### \- Pivot Tables
+---
 
-##### \- Pivot Charts
+# 📸 Dashboard Preview
 
-##### \- Slicers
+![Dashboard](Dashboard.png)
 
-##### \- Timeline
+---
 
-##### \- Excel Functions
+# 📄 Project Documentation
 
-##### \- Conditional Formatting
+![Documentation](Documentation.png)
 
+---
 
+# 💡 Business Insights
 
-### \## **Dashboard Features**
+![Insights](Insights.png)
 
+---
 
+# 📑 Pivot Table Analysis
 
-##### \- Total Sales KPI
+![Pivot Tables](Pivot_Tables.png)
 
-##### \- Total Profit KPI
+---
 
-##### \- Profit Margin KPI
+# 📈 Key Performance Indicators (KPIs)
 
-##### \- Monthly Sales Trend
+| KPI | Value |
+|------|-------:|
+| **Total Sales** | ₹1,26,42,905 |
+| **Total Profit** | ₹14,69,034.82 |
+| **Total Orders** | 51,290 |
+| **Average Profit Margin** | 11.62% |
 
-##### \- Sales by Category
+---
 
-##### \- Sales by Region
+# ❓ Business Questions Answered
 
-##### \- Top Customers
+- What is the overall business performance?
+- Which product category generates the highest revenue?
+- Which category has the highest and lowest profitability?
+- Which region contributes the highest sales?
+- How do discounts impact profitability?
+- Which months generate the highest sales?
+- Which shipping mode is used the most?
+- Which products generate the highest revenue?
+- Who are the top-performing customers?
 
-##### \- Top Products
+---
 
-##### \- Shipping Analysis
+# 🔍 Key Business Insights
 
-##### \- Discount Analysis
+- 💰 Total sales reached **₹1.26 Crore** across **51,290 orders**.
+- 💻 Technology generated the highest sales revenue.
+- 🪑 Furniture recorded the lowest profit margin.
+- 🌍 Central region achieved the highest sales.
+- 📈 November and December recorded the highest sales.
+- 🚚 Standard Class was the most frequently used shipping mode.
+- ⚠️ Discounts above **20%** significantly reduced profitability.
+- 📉 Tables were the least profitable sub-category.
 
-##### \- Interactive Filters
+---
 
+# 💼 Business Recommendations
 
+- Increase investment in Technology products.
+- Review pricing strategy for Furniture products.
+- Reduce excessive discounting to improve profitability.
+- Plan inventory before peak sales months.
+- Optimize Standard Class shipping operations.
+- Monitor low-profit products regularly.
 
-### \## **Key Business Insights**
+---
 
+# 📁 Repository Structure
 
+```
+Retail-Sales-Analysis-Excel
+│
+├── Cover_Page.png
+├── Dashboard.png
+├── Documentation.png
+├── Insights.png
+├── Pivot_Tables.png
+├── Retail_Sales_Analysis_Dashboard.xlsb
+├── README.md
+└── LICENSE
 
-##### \- Technology generated the highest revenue.
+----
 
-##### \- Furniture recorded the lowest profit margin.
+# 🚀 Skills Demonstrated
 
-##### \- Central region achieved the highest sales.
+- Microsoft Excel
+- Data Cleaning
+- Data Preparation
+- Data Analysis
+- Pivot Tables
+- Pivot Charts
+- Dashboard Development
+- KPI Reporting
+- Business Analysis
+- Data Visualization
+- Executive Reporting
 
-##### \- Sales peaked during November and December.
+---
 
-##### \- Discounts above 20% reduced profitability.
+# 👨‍💻 Author
 
-##### \- Standard Class was the most frequently used shipping mode.
+**Bhavesh Singh Yadav**
 
+Aspiring Data Analyst
 
+**Skills:** Microsoft Excel • SQL • Power BI • Python
 
-### \## **Skills Demonstrated**
+---
 
-
-
-##### \- Data Cleaning
-
-##### \- Data Preparation
-
-##### \- Pivot Tables
-
-##### \- Dashboard Development
-
-##### \- Business Analysis
-
-##### \- KPI Reporting
-
-##### \- Data Visualization
-
-
-
-### \## **Dashboard Preview**
-
-##### 
-
-##### \* Regional Performance: The West Region generated the highest total revenue.
-
-##### \* Category Contribution: Technology is the primary driver, contributing **38% of total sales**.
-
-##### \* Profitability Impact: Discounts offered above 20% significantly reduce overall profitability.
-
-##### \* Customer Distribution: Standard Class accounts are responsible for the vast majority of orders.
-
-##### \* Revenue Concentration: The top 10 customers contribute to 18% of total sales volume.
-
-
-
-
-
-### \## **Author -**
-
-#### 
-
-#### Bhavesh Singh Yadav
+## ⭐ If you found this project useful, consider giving it a Star!
 
