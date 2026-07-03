@@ -132,3 +132,25 @@
 
 #### Bhavesh Singh Yadav
 
+
+# Dashboard Preview
+
+![Dashboard](screenshots/Dashboard.png)
+
+
+
+# Documentation
+
+![Documentation](screenshots/Documentation.png)
+
+
+
+# Business Insights
+
+![Insights](screenshots/Insights.png)
+
+
+
+# Pivot Tables
+
+![Pivot Tables](screenshots/Pivot_Tables.png)
